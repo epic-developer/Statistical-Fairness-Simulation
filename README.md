@@ -1,4 +1,4 @@
-# Coin Flip Cheat Detector
+# Statistical Fairness Simulation
 
 A simulation tool for finding the optimal strategy to detect cheaters in a coin-flipping game, based on [this video](https://youtu.be/XTcP4oo4JI4).
 
